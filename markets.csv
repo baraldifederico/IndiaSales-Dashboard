@@ -1,0 +1,18 @@
+markets_code,markets_name,zone
+Mark001,Chennai,"India - South"
+Mark002,Mumbai,"India - Central"
+Mark003,Ahmedabad,"India - North"
+Mark004,"Delhi NCR","India - North"
+Mark005,Kanpur,"India - North"
+Mark006,Bengaluru,"India - South"
+Mark007,Bhopal,"India - Central"
+Mark008,Lucknow,"India - North"
+Mark009,Patna,"India - North"
+Mark010,Kochi,"India - South"
+Mark011,Nagpur,"India - Central"
+Mark012,Surat,"India - North"
+Mark013,Bhopal,"India - Central"
+Mark014,Hyderabad,"India - South"
+Mark015,Bhubaneshwar,"India - South"
+Mark097,"New York",USA
+Mark999,Paris,France
